@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "バラカストーリア 〜月と太陽に祝福を〜 (GAME VERSION)",
+  "base_artist": "ナターリア (CV: 生田 輝)、ライラ (CV: 市ノ瀬加那)",
+  "createdAt": "2026-03-29T05:01:51.065896Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バラカストーリア ～月と太陽に祝福を～ (GAME VERSION)",
+      "artist": "ナターリア(生田輝),ライラ(市ノ瀬加那)",
+      "has_synced": false,
+      "path": "select/pl_01_バラカストーリア_~月と太陽に祝福を~_(GAME_VERSION)_ナターリア(生田輝),ライラ(市ノ瀬加那).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "バラカストーリア ～月と太陽に祝福を～ (GAME VERSION)",
+      "artist": "ナターリア(生田輝),ライラ(市ノ瀬加那)",
+      "has_synced": false,
+      "path": "select/pl_02_バラカストーリア_~月と太陽に祝福を~_(GAME_VERSION)_ナターリア(生田輝),ライラ(市ノ瀬加那).txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "バラカストーリア ～月と太陽に祝福を～ (M@STER VERSION)",
+      "artist": "ナターリア(生田輝),ライラ(市ノ瀬加那)",
+      "has_synced": false,
+      "path": "select/pl_03_バラカストーリア_~月と太陽に祝福を~_(M@STER_VERSION)_ナターリア(生田輝),ライラ(市ノ瀬加那).txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "バラカストーリア ～月と太陽に祝福を～ (M@STER VERSION)",
+      "artist": "ナターリア(生田輝),ライラ(市ノ瀬加那)",
+      "has_synced": false,
+      "path": "select/pl_04_バラカストーリア_~月と太陽に祝福を~_(M@STER_VERSION)_ナターリア(生田輝),ライラ(市ノ瀬加那).txt"
+    }
+  ]
+}
